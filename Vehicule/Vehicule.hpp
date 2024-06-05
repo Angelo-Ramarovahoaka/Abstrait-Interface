@@ -15,4 +15,3 @@ class Vehicule
         virtual void conduire()=0;
 };
 #endif
-
